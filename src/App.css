@@ -1,0 +1,22 @@
+.no-edit input{
+    border: none;
+    box-shadow: none;
+    pointer-events: none;
+} 
+
+.no-edit button.save-button{
+   display: none;
+}
+
+button.save-button{
+  display: block;
+}
+
+.no-edit button.edit-button{
+   display: block;
+}
+
+button.edit-button{
+  display: none;
+}
+
